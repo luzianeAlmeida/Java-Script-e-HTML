@@ -1,3 +1,2 @@
-O Chrome, a partir da versão 55, passou a detectar automaticamente o encoding dos arquivos. Então, é possível pensar que não é mais necessária a tag <meta charset="UTF-8">.
-
-No entanto, ela deve continuar a ser usada, porque nem todos os navegadores detectam o encoding automaticamente, sendo assim, é uma boa prática manter a tag <meta> indicando o charset usado na hora de criar o arquivo.
+*/O Chrome, a partir da versão 55, passou a detectar automaticamente o encoding dos arquivos. Então, é possível pensar que não é mais necessária a tag <meta charset="UTF-8">.
+No entanto, ela deve continuar a ser usada, porque nem todos os navegadores detectam o encoding automaticamente, sendo assim, é uma boa prática manter a tag <meta> indicando o charset usado na hora de criar o arquivo.*/
